@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @watertitus
-- 👀 I’m interested in using PHP in Building of beautifull dynamic Website Development
+- 👀 I’m interested in using REACT & PHP in Building of beautifull dynamic Website Development
 - 🌱 I’m currently learning MERN
 - 💞️ I’m looking to collaborate on any project
 - 📫 How to reach me ...
